@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.grid-box{
+    display: grid;
+    gap: 1.5 rem;
+    grid-template-columns: repeat(4, 1fr);
+}
+
